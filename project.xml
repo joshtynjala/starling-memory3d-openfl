@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="" package="org.openfl.starling.memory3d" version="1.0.0" company="OpenFL" />
+	<app main="Memory3D" path="bin" file="Memory3D" />
+
+	<window background="#00a7ff" />
+	<window fps="60" unless="html5" />
+	<window width="800" height="600" unless="html5" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="starling" />
+	
+	<assets path="assets" />
+	
+</project>
